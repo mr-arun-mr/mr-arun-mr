@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:arunr307@gmail.com"><img src="https://img.shields.io/badge/📧_arumr307@gmail.com-1e1e2e?style=for-the-badge" /></a>
     <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
