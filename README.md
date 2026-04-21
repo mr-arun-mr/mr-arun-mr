@@ -26,7 +26,7 @@
   
 <p align="left">
 
-  <a href="https://github.com/mr-arunr-mr">
+  <a href="https://github.com/mr-arun-mr">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
   </a>
 
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://youtube.com/lifeisbeautiful_amr">
+  <a href="https://youtube.com/@lifeisbeautiful_amr">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
   </a>
 </p>
@@ -55,14 +55,14 @@
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=java,Next.js" />
+ <img src="https://skillicons.dev/icons?i=java,nextjs" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=spring,springboot,nextjs" />
+<img src="https://skillicons.dev/icons?i=spring,spring,hibernate,maven,kubernetes,docker,prometheus,kafka,cypress" />
 </td>
 
 
